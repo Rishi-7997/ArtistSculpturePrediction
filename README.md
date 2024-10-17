@@ -34,3 +34,11 @@ This is a web application that predicts the price of sculptures based on various
    ```bash
    git clone https://github.com/yourusername/sculpture-price-prediction.git
    cd sculpture-price-prediction
+2. **Create Python env:**
+   python -m venv env
+   env\Scripts\activate
+3. **Install requirements.txt:**
+   pip install -r requirements.txt
+4. **Run Django framework:**
+   python manage.py runserver
+   
