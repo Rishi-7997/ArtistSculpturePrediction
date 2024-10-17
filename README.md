@@ -27,6 +27,7 @@ This is a web application that predicts the price of sculptures based on various
 - React
 - Axios for API calls
 - CSS for styling
+- Pdf Make to download all inputs and predicted price in a pdf
 
 ## Installation
 
